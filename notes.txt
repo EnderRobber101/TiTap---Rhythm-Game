@@ -1,0 +1,6 @@
+Logic:
+Time + tile time = location;
+
+
+
+change to int8
